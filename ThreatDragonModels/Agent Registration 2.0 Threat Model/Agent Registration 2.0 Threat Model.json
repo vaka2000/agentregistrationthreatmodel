@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Agent Registration 2.0 Threat Model",
+    "owner": "Ivan Pysarevskyy",
+    "description": "A threat model to identify likely risks to agent registration flow and the day to remediate them"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Agent Registration Flow - Agent UI Initiated",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "ian.white@delphix.com"
+  }
+}
